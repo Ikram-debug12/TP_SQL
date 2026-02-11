@@ -39,3 +39,5 @@ https://github.com/user-attachments/assets/4fbc3ece-b6db-4a3b-bdda-2803fa08f100
 ### 6. TestMachine - Exécution 
 <img width="931" height="514" alt="TestMachine exécution" src="https://github.com/user-attachments/assets/a9aab76b-6696-4488-a510-1426b31399ae" />
 
+## 🎥 **Vidéo de démonstration**
+https://github.com/user-attachments/assets/d8c8a0ec-87f6-41d0-9960-172f629a6d0f
