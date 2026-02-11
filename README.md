@@ -15,3 +15,4 @@
 
 ### 6. Requêtes SQL - Statistiques
 <img width="1041" height="557" alt="lab1" src="https://github.com/user-attachments/assets/c1d55caf-0e43-4e22-a326-57accd4b7ce2" />
+## 🎥 **Vidéo de démonstration**
